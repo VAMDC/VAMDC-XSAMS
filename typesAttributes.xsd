@@ -1025,6 +1025,7 @@
 			<xs:enumeration value="phsc"/>
 			<xs:enumeration value="elas"/>
 			<xs:enumeration value="inel"/>
+			<xs:enumeration value="angu"/>
 			<xs:enumeration value="exci"/>
 			<xs:enumeration value="deex"/>
 			<xs:enumeration value="ioni"/>
