@@ -363,13 +363,14 @@
 				<xs:enumeration value="nm"/>
 				<xs:enumeration value="deg"/>
 				<xs:enumeration value="rad"/>
-				<xs:enumeration value="srad"/>
+				<xs:enumeration value="sr"/>
 				<xs:enumeration value="s"/>
 				<xs:enumeration value="m3/s"/>
 				<xs:enumeration value="cm3/s"/>
 				<xs:enumeration value="cm6/s"/>
 				<xs:enumeration value="m2"/>
 				<xs:enumeration value="cm2"/>
+				<xs:enumeration value="m2/sr"/>
 				<xs:enumeration value="b"/>
 				<xs:enumeration value="Mb"/>
 				<xs:enumeration value="1/s"/>
