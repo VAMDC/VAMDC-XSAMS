@@ -84,7 +84,7 @@
             </xs:element>
             
             <!-- l -->
-            <xs:element name="l" type="xs:integer" minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="l" type="xs:integer" minOccurs="0" maxOccurs="1">
                 <xs:annotation>
                     <xs:documentation>A quantum number, l, used by some sources to describe the vibrational angular momentum</xs:documentation>
                 </xs:annotation>
